@@ -5,3 +5,19 @@
       "contributors": ["Enzifiri"]
     }
   ]
+
+[
+    {
+      "contribution-title": "RPCs",
+      "project-repo": "https://artela-rpc.froopyland.online/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "APIs",
+      "project-repo": "https://artela-api.froopyland.online/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
